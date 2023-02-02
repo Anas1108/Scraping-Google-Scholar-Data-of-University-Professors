@@ -26,8 +26,6 @@ Before starting this project, you will need to have the following software insta
 
 3. Create a virtual environment (optional):
 
-
-3. Create a virtual environment (optional):
 - virtualenv env
 
 
